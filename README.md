@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahil Jadhav
 
-<!--
-**Sahiljadhav-max/Sahiljadhav-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year IT Student**  
+💻 Learning **Full Stack Development** & **Data Science**  
+🚀 Passionate about building real-world projects and solving problems using technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔹 Currently pursuing **Information Technology**
+- 🔹 Learning **Web Development (Frontend + Backend)**
+- 🔹 Exploring **Data Science & Analytics**
+- 🔹 Interested in **Software Development, Databases & Automation**
+- 🔹 Goal: Become a **skilled Software Engineer / Data Scientist**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Scripting
+- Java
+- Python
+- JavaScript
+
+### 🌐 Web Development
+- HTML5
+- CSS3
+- JavaScript
+- React
+- MySQL
+
+### 📊 Data Science
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- XAMPP
+- VS Code
+- Eclipse
+
+---
+
+## 📂 Projects (Coming Soon 🚧)
+- 🔹 Full Stack Web Applications
+- 🔹 Database-driven Websites
+- 🔹 Data Analysis Projects
+- 🔹 Mini Projects for College Practicals
+
+> I regularly update my repositories as I learn new concepts.
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: [github.com/Sahijadhav-max](https://github.com/Sahijadhav-max)
+
+---
+
+⭐ *“Learning by building is my approach.”*
