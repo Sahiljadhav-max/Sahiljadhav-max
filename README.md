@@ -20,13 +20,11 @@
 ### 💻 Programming & Scripting
 - Java
 - Python
-- JavaScript
 
 ### 🌐 Web Development
 - HTML5
 - CSS3
 - JavaScript
-- React
 - MySQL
 
 ### 📊 Data Science
@@ -38,17 +36,9 @@
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
-- XAMPP
 - VS Code
-- Eclipse
 
 ---
-
-## 📂 Projects (Coming Soon 🚧)
-- 🔹 Full Stack Web Applications
-- 🔹 Database-driven Websites
-- 🔹 Data Analysis Projects
-- 🔹 Mini Projects for College Practicals
 
 > I regularly update my repositories as I learn new concepts.
 
